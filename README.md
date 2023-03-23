@@ -1,6 +1,4 @@
-<div>
-	<h2>News App</h2>
-</div>
+<h2>News App</h2>
 
 <!-- >[Live Preview](https://rapidapi-example-news-app.vercel.app/) -->
 
