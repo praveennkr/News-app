@@ -1,7 +1,5 @@
 <h2>News App</h2>
 
-[Live Preview] here (https://news-app-alpha-hazel.vercel.app/)
-
 Installation Steps
 
 1. Download the `News-app` directory.
@@ -15,3 +13,5 @@ Installation Steps
 5. Run the app
 
 Open [localhost:3000](http://localhost:3000/) to see the app.
+
+Click here for Live Preview - https://news-app-alpha-hazel.vercel.app/
