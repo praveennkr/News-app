@@ -1,6 +1,6 @@
 <h2>News App</h2>
 
-Live Preview here (https://news-app-alpha-hazel.vercel.app/)
+[Live Preview] here (https://news-app-alpha-hazel.vercel.app/)
 
 Installation Steps
 
