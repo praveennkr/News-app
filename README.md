@@ -1,6 +1,6 @@
 <h2>News App</h2>
 
-<!-- >[Live Preview](https://rapidapi-example-news-app.vercel.app/) -->
+Live Preview here (https://news-app-alpha-hazel.vercel.app/)
 
 Installation Steps
 
