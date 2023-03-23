@@ -1,2 +1,19 @@
-# News-app
-A simple news website using Next.js that consumes a free news API.
+<div>
+	<h2>News App</h2>
+</div>
+
+<!-- >[Live Preview](https://rapidapi-example-news-app.vercel.app/) -->
+
+Installation Steps
+
+1. Download the `News-app` directory.
+
+2. Unzip the downloaded file and navigate to the working directory.
+
+3. Install dependencies
+
+4. Create `.env.local` file in root and add your variables
+
+5. Run the app
+
+Open [localhost:3000](http://localhost:3000/) to see the app.
